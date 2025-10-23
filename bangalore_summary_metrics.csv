@@ -1,0 +1,10 @@
+metric,value
+total_rides,200000
+unique_start_locations,51
+unique_stop_locations,51
+date_range_start,2024-01-01 00:00:00
+date_range_end,2024-01-31 23:59:00
+mean_distance_miles,9.62696865
+median_distance_miles,6.63
+mean_duration_mins,0.0
+median_duration_mins,0.0
